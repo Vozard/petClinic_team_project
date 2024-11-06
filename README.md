@@ -7,7 +7,6 @@ This is our team project at GFA. We are developing a web application for a pet c
 * Java Sping Boot backend app (REST API).
 ## Frontend
 * Github repository: https://github.com/gfa-cc-after/StudyGroup_1_PET_Clinic_Frontend-main
-* URL (Railway): https://drama-frontend.up.railway.app/
 * VITE + React frontend application
 
 ## Project description
